@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Do Thanh Dat
-* Student ID: BI10-026
+* Student Name:   "Do Thanh Dat"
+* Student ID:  "BI10-026"
 
